@@ -1,4 +1,4 @@
-# GDevelop website
+# GDeveloper -A way to be a Pro
 
 This is the repository for the new website for **[GDevelop](https://gdevelop-app.com)**, the open source game creator requiring no programming skills.
 
